@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **React, Vue, Flask, NLP, AI/ML**
 
-- 📫 How to reach me **kr.ankit@gmail.com**
+- 📫 How to reach me **kr.ankit5002@gmail.com**
 
 - ⚡ Fun fact **I build full-stack apps that learn from users — literally. Machine learning is my backend intern. 😎**
 
