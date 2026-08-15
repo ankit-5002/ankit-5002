@@ -31,15 +31,6 @@ My experience includes working on:
 
 I've gained industry experience through internships at **Infosys Springboard** and **Ramkrishna Forgings Limited (RKFL)**, working on ML-driven applications and automated visual quality inspection.
 
----
-
-## 🚀 Pinned Repositories
-
-<div align="center">
-
-<img src="./assets/pinned-repos-carousel.gif" width="100%" alt="Pinned repositories carousel">
-
-</div>
 
 ---
 
