@@ -33,28 +33,6 @@ I've gained industry experience through internships at **Infosys Springboard** a
 
 ---
 
-## 💼 Experience
-
-**Infosys Springboard — AI/ML Intern**
-
-Worked on **EcoPackAI**, an ML-driven platform for sustainable packaging recommendations, carbon-footprint prediction, and cost-efficiency analysis.
-
-**Ramkrishna Forgings Limited — AI/ML Intern**
-
-Worked on a **deep learning-based surface defect detection system for hot-rolled steel strips**, applying computer vision techniques for automated quality control.
-
----
-
-## 🏆 Achievements
-
-🏅 **1st Position — Agentic AI Hackathon, CUTM**
-
-🏆 **Surprise Winner — State-Level Cyber Safety Hackathon 2025**
-
-🚀 **Participant — Campus Hackfest 2026**
-
----
-
 ## 🚀 Pinned Repositories
 
 <div align="center">
